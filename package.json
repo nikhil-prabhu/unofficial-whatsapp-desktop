@@ -9,7 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "package-mac": "electron-packager . unofficial-whatsapp-desktop --overwrite --platform=darwin --arch=x64 --icon=assets/icons/mac/whatsapp.icns --prune=true --out=dist --electron-version=2.0.2",
     "package-win": "electron-packager . unofficial-whatsapp-desktop --overwrite --asar=true --platform=win32 --arch=ia32 --icon=assets/icons/win/whatsapp.ico --prune=true --out=dist --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"WhatsApp Desktop (Unofficial)\" --electron-version=2.0.2",
-    "package-linux": "electron-packager . unofficial-whatsapp-desktop --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/whatsapp.png --prune=true --out=dist --electron-version=2.0.2"
+    "package-linux": "electron-packager . unofficial-whatsapp-desktop --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/whatsapp.png --prune=true --out=dist --electron-version=2.0.2",
+    "build-rpm": "electron-installer-redhat --src dist/unofficial-whatsapp-desktop-linux-x64/ --dest dist/installers/ --arch x86_64"
   },
   "repository": {
     "type": "git",
