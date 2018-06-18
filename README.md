@@ -14,6 +14,7 @@ cd ~/Downloads/
 ```
 sudo apt -y install ./unofficial-whatsapp-desktop_VERSION_amd64.deb
 ```
+**NOTE:** Replace 'VERSION' with the version of the file.
 
 ### Fedora/RHEL/CentOS/openSUSE
 1. From the [Releases](https://github.com/nikhil-prabhu/unofficial-whatsapp-desktop/releases) page, download the .rpm file.
@@ -25,3 +26,4 @@ cd ~/Downloads/
 ```
 sudo dnf -y install unofficial-whatsapp-desktop-VERSION.x86_64.rpm
 ```
+**NOTE:** Replace 'VERSION' with the version of the file.
