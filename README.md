@@ -4,6 +4,10 @@ The app basically just loads the web.whatsapp.com website in a native GUI window
 
 ## Installation
 
+### Windows:
+1. Extract the contents of the zip file to a folder of your choice.
+2. Run the executable file (unofficial-whatsapp-desktop Setup VERSION.exe) within the extracted folder, and wait for it to finish installing.
+
 ### Debian/Ubuntu:
 1. From the [Releases](https://github.com/nikhil-prabhu/unofficial-whatsapp-desktop/releases) page, download the .deb file.
 2. Open Terminal, and cd into the directory where you've downloaded the file. For example, say you've downloaded the file into the Downloads folder.
@@ -16,7 +20,7 @@ sudo apt -y install ./unofficial-whatsapp-desktop_VERSION_amd64.deb
 ```
 **NOTE:** Replace 'VERSION' with the version of the file.
 
-### Fedora/RHEL/CentOS/openSUSE
+### Fedora/RHEL/CentOS/openSUSE:
 1. From the [Releases](https://github.com/nikhil-prabhu/unofficial-whatsapp-desktop/releases) page, download the .rpm file.
 2. Open Terminal, and cd into the directory where you've downloaded the file. For example, say you've downloaded the file into the Downloads folder.
 ```
