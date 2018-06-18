@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Simple desktop client for WhatsApp (Unofficial)",
   "main": "main.js",
+  "electron": "2.0.2",
+  "electron-packager": "12.1.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
