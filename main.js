@@ -7,7 +7,7 @@ let win
 function createWindow() {
     // Define default dimensions & icon
     win = new BrowserWindow({width: 800, height: 600,
-        icon: path.join(__dirname, '../assets/icons/png/whatsapp.png')
+        icon: path.join(__dirname, 'assets/icons/png/whatsapp.png')
     })
     // Load the index.html file
     win.loadURL(url.format ({
