@@ -1,0 +1,22 @@
+{
+  "name": "unofficial-whatsapp-desktop",
+  "version": "1.0.0",
+  "description": "Simple desktop client for WhatsApp (Unofficial)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhil-prabhu/unofficial-whatsapp-desktop.git"
+  },
+  "keywords": [
+    "WhatsApp"
+  ],
+  "author": "Nikhil Prabhu",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/nikhil-prabhu/unofficial-whatsapp-desktop/issues"
+  },
+  "homepage": "https://github.com/nikhil-prabhu/unofficial-whatsapp-desktop#readme"
+}
