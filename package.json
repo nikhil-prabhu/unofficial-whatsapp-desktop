@@ -40,6 +40,8 @@
       ]
     },
     "linux": {
+      "icon": "assets/icons/png/whatsapp.png",
+      "category": "Internet",
       "target": [
         "deb",
         "rpm"
