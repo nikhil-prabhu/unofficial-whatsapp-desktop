@@ -1,5 +1,6 @@
 {
   "name": "unofficial-whatsapp-desktop",
+  "productName": "WhatsApp Desktop (Unofficial)",
   "version": "1.0.0",
   "description": "Simple desktop client for WhatsApp (Unofficial)",
   "main": "main.js",
@@ -22,7 +23,6 @@
     "url": "https://github.com/nikhil-prabhu/unofficial-whatsapp-desktop/issues"
   },
   "homepage": "https://github.com/nikhil-prabhu/unofficial-whatsapp-desktop#readme",
-
   "build": {
     "appId": "WhatsApp Desktop (Unofficial)",
     "dmg": {
