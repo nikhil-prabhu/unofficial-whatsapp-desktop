@@ -41,7 +41,6 @@
     },
     "linux": {
       "target": [
-        "AppImage",
         "deb",
         "rpm"
       ]
