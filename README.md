@@ -2,6 +2,9 @@
 A simple desktop client for WhatsApp (Unofficial), built using Electron.
 The app basically just loads the web.whatsapp.com website in a native GUI window.
 
+### NOTE :
+This project is no longer actively maintained. Anyone interested in taking over is free to fork it.
+
 ## Installation
 
 ### Windows:
